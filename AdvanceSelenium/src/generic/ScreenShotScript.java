@@ -13,7 +13,7 @@ public class ScreenShotScript {
 
 	public static void main(String[] args) 
 	{
-		System.setProperty("webdriver.gecko.driver", "./softwares/geckodriver.exe");
+	.setProperty("webdriver.gecko.driver", "./softwares/geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
 		driver.get("https://www.instagram.com");
 		//step 1
