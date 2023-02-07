@@ -28,7 +28,8 @@ public class ScreenShotScript {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
 	}
 
 }
