@@ -29,6 +29,7 @@ public class ScreenShotScript {
 			e.printStackTrace();
 		}
 		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
 	}
 
 }
